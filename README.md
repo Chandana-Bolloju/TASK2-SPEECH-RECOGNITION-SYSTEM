@@ -46,3 +46,7 @@ If speech is unclear → "Sorry, I could not understand the audio."
 
 If API request fails → Displays the specific error.
 
+*OUTPUT*  :
+
+![Image](https://github.com/user-attachments/assets/7a9095c6-3e46-4a32-a6f7-a434edb9ceb6)
+
